@@ -4,7 +4,6 @@ author: mathrabbit
 date: 2025-05-03 12:00:00 +0900
 categories: [Reinforcement Learning]
 tags: [ai]
-pin: true
 ---
 
 강화학습 1주차 : 마르코프 과정과 동적계획법
